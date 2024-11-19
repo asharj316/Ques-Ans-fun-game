@@ -34,7 +34,7 @@ else:
 #2
 print("To dusra sawwal hai 50k rupay ka hai!")
 print("Ques2:Who is diddy?")
-answers_=["Biggie's killer","Tupac's killer","Naas's friend","Bachabaaz"]
+answers_=["Biggie's killer","Tupac's killer","Naas's friend","Sk_forest"]
 print("The choices are following","1.",answers_[0],"2.",answers_[1],"3.",answers_[2],"4.",answers_[3])
 print("To apko kiya lagta hai konsa jawab sahi hai?:",end="")
 choice_=input().capitalize()
@@ -60,7 +60,7 @@ else:
     
 #3
 print("To teesra sawwal hai 50k rupay ka hai!")
-print("Ques3:Who is ghari chor?")
+print("Ques3:Who is cuurent Prime Minister of Pakistan?")
 answers_=["Imran khan","Nawaz sharif","Altaf bhai","Zardari"]
 print("The choices are following","1.",answers_[0],"2.",answers_[1],"3.",answers_[2],"4.",answers_[3])
 print("To apko kiya lagta hai konsa jawab sahi hai?:",end="")
